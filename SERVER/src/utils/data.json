@@ -1,0 +1,271 @@
+[
+  {
+    "name": "Costa Rica",
+    "image": "https://images.pexels.com/photos/9482124/pexels-photo-9482124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1920",
+		"continent": "America",
+		"description":"Costa Rica es el lugar al que debes ir cuando quieres desconectarte y disfrutar de la naturaleza, con sus playas bañadas por el sol y sus frondosas selvas tropicales.",
+		"experiences":"Buceo",
+    "destinies":[
+     {
+      "name":"PARQUE NACIONAL TORTUGUERO",
+      "description":"Es uno de los principales iconos turísticos de Costa Rica debido a que se reconoce internacionalmente por proteger la playa de anidación de tortugas verdes más importante del hemisferio occidental.",
+      "image":"https://images.pexels.com/photos/3661926/pexels-photo-3661926.jpeg?auto=compress&cs=tinysrgb&w=600"
+     },
+     {
+      "name": "Playa Manuel Antonio",
+      "description":
+        "Esta playa de arena blanca forma parte del Parque Nacional Manuel Antonio. Podrá disfrutar de un hermoso sitio de arena blanca, agua cristalina y árboles que dan sombra en la orilla.",
+      "image":
+        "https://images.pexels.com/photos/13501101/pexels-photo-13501101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1920"
+    },
+    {
+      "name": "Cataratas de la Fortuna",
+      "description":
+        "Se esconde un pedacito de naturaleza, de oro verde, la que le da el sustento a nuestra comunidad y nos hace sentir orgullosos por su belleza, la Catarata Río Fortuna",
+      "image":
+        "https://images.pexels.com/photos/14580735/pexels-photo-14580735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1920"
+    },
+    {
+      "name": "Cahuita National Park",
+      "description":
+        "Ideal para actividades acuáticas, como el esnórquel, alberga uno de los mayores arrecifes coralinos de la costa caribeña y el más importante de Costa Rica.",
+      "image":"https://images.pexels.com/photos/3324590/pexels-photo-3324590.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "image": "https://images.pexels.com/photos/18691102/pexels-photo-18691102/free-photo-of-paisaje-agua-verano-nueva-york.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1920",
+		"continent": "America",
+		"description":"El asado, el fútbol, el tango, el mate, el Malbec, el dulce de leche, el choripán, el Obelisco.Las pampas infinitas, la Patagonia remota y misteriosa y el norte rebosante de sol y de colores.",
+		"experiences":"Tango",
+    "destinies":[
+      {
+       "name":"Bariloche",
+       "description":"Disfruta de un tour de 10h por la carretera de los Siete Lagos en un viaje panorámico por carretera en el tramo de la Ruta Nacional 40 que une San Martín de los Andes y Villa La Angostura. Déjate llevar por la belleza de los paisajes naturales de la zona.",
+       "image":"https://images.pexels.com/photos/4596205/pexels-photo-4596205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+       "name": "Buenos Aires",
+       "description":
+         "Vive la magia del tango en su cuna con un espectáculo en vivo en Buenos Aires y una cena opcional de 3 platos y bebidas. Maravíllate con los elaborados trajes y el acompañamiento de una banda en directo.",
+       "image":
+         "https://images.pexels.com/photos/1709920/pexels-photo-1709920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+     },
+     {
+       "name": "Puerto Iguazú",
+       "description":
+         "Explora las Cataratas del Iguazú con increíbles vistas de la Garganta del Diablo. Monta en un tren ecológico para llegar a varias pasarelas que ofrecen diferentes perspectivas sobre las cascadas de agua.",
+       "image":
+         "https://images.pexels.com/photos/8242973/pexels-photo-8242973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+     },
+     {
+       "name": "El Calafate: Glaciar Perito Moreno y navegación en velero",
+       "description":
+         "Sumerge tus sentidos en la magia de la naturaleza viajando desde El Calafate durante un día para visitar el glaciar Perito Moreno. Contempla de cerca el glaciar y navega durante una hora por el Lago Argentino.",
+       "image":"https://content.r9cdn.net/rimg/dimg/a9/50/3d0b550a-city-52460-1671e1e779a.jpg?crop=true&width=1020&height=498"
+     }
+     ]
+  },
+  {
+    "name": "Perú",
+    "image": "https://images.pexels.com/photos/2356045/pexels-photo-2356045.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1920",
+		"continent": "America",
+		"description":"Desde la lejanía de las montañas de los Andes en Perú hasta los territorios no explorados de la selva tropical del Amazonas, este país tiene un misticismo propio",
+		"experiences":"Trekking",
+    "destinies":[
+      {
+          "name": "Machu Picchu",
+          "image": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Machu Picchu es uno de los lugares emblemáticos de Perú, una antigua ciudad Inca ubicada entre las montañas de los Andes peruanos, a 2.438 metros de altura, que se mantuvo oculta durante la conquista española. En Machu Picchu podrás caminar entre las ruinas de una de las ciudades más esplendorosas del mundo precolombino, conocerás de primera mano la grandeza de uno de los imperios más importantes del mundo y podrás contemplar uno de los paisajes más lindos de Perú."
+      },
+      {
+          "name": "Laguna Humantay",
+          "image": "https://images.pexels.com/photos/16846534/pexels-photo-16846534/free-photo-of-nieve-montanas-naturaleza-laguna.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Es un mítico cuerpo de agua que se encuentra entre las montañas más altas de Cusco, y que en los últimos años se ha convertido en el destino ideal para los amantes del senderismo y de la Pachamama. Esta laguna de cautivantes colores se encuentra a 4.200 metros de altitud, nace de los Apus (montañas sagradas) conocidos como Ausangate y Salcantay, y mientras llegas a ella podrás contemplar la flora y fauna propia de la Cordillera de los Andes"
+      },
+      {
+          "name": "Montaña de Colores",
+          "image": "https://images.pexels.com/photos/6921111/pexels-photo-6921111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "La Montaña de Colores o Vinicunca, su nombre originario, en donde podrás reconocer al menos siete colores del arcoiris y estarás por encima de los 5.200 metros sobre el nivel del mar. Vinicunca se encuentra al pie del Nevado Ausangate, considerado como uno de los Apus protectores del Cusco, y sus colores básicamente se deben a los distintos minerales que la cubren, que junto a las extremas condiciones climáticas han dado origen a una explosión de colores en la montaña."
+      },
+      {
+          "name": "Desierto Huacachina",
+          "image": "https://images.pexels.com/photos/7435822/pexels-photo-7435822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Este desierto subtropical es conocido como el Oasis de América y en él vas a encontrar un pequeño pueblo y una hermosa laguna rodeada de palmeras, malecones y enormes dunas. Además, cuando visites la Huacachina asegúrate de dar un paseo en buggy por el desierto, será una experiencia llena de increíbles paisajes y sobre todo de adrenalina."
+      }
+  ]
+  },
+  {
+    "name": "Colombia",
+    "image": "https://images.pexels.com/photos/1559699/pexels-photo-1559699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1920",
+		"continent": "America",
+		"description":"En Colombia llevan el ritmo en la sangre. Es un país que te hace vibrar con sus emociones, donde podrás elegir el destino de tu preferencia.",
+		"experiences":"Vallenatos",
+    "destinies":[
+      {
+          "name": "Cartagena de Indias",
+          "image": "https://images.pexels.com/photos/13804522/pexels-photo-13804522.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Cartagena es una ciudad costera en la costa caribeña de Colombia. Es famosa por su bien conservado centro histórico, conocido como la Ciudad Amurallada, que está rodeado por impresionantes murallas coloniales. Los visitantes pueden explorar calles empedradas, disfrutar de la arquitectura colonial, y visitar el Castillo de San Felipe de Barajas, una impresionante fortaleza."
+      },
+      {
+          "name": "Parque Nacional Natural Tayrona",
+          "image": "https://images.pexels.com/photos/4552230/pexels-photo-4552230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Este parque nacional se encuentra en la costa norte de Colombia, cerca de Santa Marta. Tayrona es conocido por sus hermosas playas, selva tropical y senderos naturales. Los visitantes pueden disfrutar de la caminata a través de la jungla para llegar a playas como La Piscina y Arrecifes, donde pueden relajarse en un entorno paradisíaco."
+      },
+      {
+          "name": "Medellín",
+          "image": "https://images.pexels.com/photos/4150032/pexels-photo-4150032.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Conocida como la Ciudad de la Eterna Primavera, Medellín es la segunda ciudad más grande de Colombia. Ofrece una variedad de atracciones, como el Parque Arvi, el Jardín Botánico y el Museo de Arte Moderno. Además, la ciudad es famosa por su transformación urbana y el sistema de transporte público innovador."
+      },
+      {
+          "name": "Villa de Leyva",
+          "image": "https://images.pexels.com/photos/13836223/pexels-photo-13836223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": " Villa de Leyva es un pueblo colonial ubicado en el altiplano cundiboyacense de Colombia. Es famoso por su arquitectura bien conservada, calles empedradas y la Plaza Mayor, una de las plazas más grandes de América Latina. Los visitantes pueden explorar museos, iglesias históricas, tiendas de artesanía y disfrutar de la atmósfera tranquila y encantadora de este lugar. Además, en las cercanías se encuentran el Parque Nacional Natural Iguaque y el desierto de la Candelaria, dos áreas naturales impresionantes para explorar. Villa de Leyva es un destino perfecto para aquellos que buscan una experiencia cultural y natural en Colombia."
+      }
+  ]
+  },
+  {
+    "name": "Brasil",
+    "image": "https://images.pexels.com/photos/13911606/pexels-photo-13911606.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1920",
+		"continent": "America",
+		"description":"Paisajes naturales sin igual, innumerables playas y un ambiente de fiesta constante hacen de éste uno de los países más pintorescos e interesantes de América del Sur.",
+		"experiences":"Zambar",
+    "destinies":[
+      {
+          "name": "Río de Janeiro",
+          "image": "https://images.pexels.com/photos/2876407/pexels-photo-2876407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Río de Janeiro es famosa por su icónica estatua del Cristo Redentor, ubicada en la cima del Monte Corcovado, con impresionantes vistas de la ciudad. Las playas de Copacabana e Ipanema son mundialmente conocidas, y el carnaval de Río es uno de los eventos más grandes y vibrantes del mundo."
+      },
+      {
+          "name": "Foz do Iguaçu",
+          "image": "https://images.pexels.com/photos/1640416/pexels-photo-1640416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Este destino se encuentra en la frontera entre Brasil, Argentina y Paraguay y es conocido por sus majestuosas Cataratas del Iguazú, consideradas una de las maravillas naturales del mundo. Los visitantes pueden explorar el Parque Nacional do Iguaçu y disfrutar de las impresionantes vistas de las cascadas."
+      },
+      {
+          "name": "Salvador de Bahía",
+          "image": "https://images.pexels.com/photos/12989844/pexels-photo-12989844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Salvador es famosa por su rica herencia cultural afrobrasileña. El Pelourinho es su centro histórico, lleno de coloridas casas coloniales, iglesias y calles adoquinadas. También es conocida por su música y danza, como el samba de roda y el capoeira."
+      },
+      {
+          "name": "Amazonia",
+          "image": "https://res.cloudinary.com/worldpackers/image/upload/c_limit,f_auto,q_auto,w_1140/bzngtenckauetvefmdai",
+          "description": "La región amazónica de Brasil es una de las áreas más biodiversas del mundo, con una selva tropical exuberante, ríos y una amplia variedad de vida silvestre. Los viajeros pueden explorar la selva, realizar excursiones en canoa, avistar aves exóticas y aprender sobre la cultura indígena."
+      }
+  ]
+  },
+  {
+    "name": "Francia",
+    "image": "https://images.pexels.com/photos/1308940/pexels-photo-1308940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1920",
+		"continent": "Europa",
+		"description":"Francia es mucho más que París, desde el chateaux de cuentos de hadas del valle del Loira hasta los campos de lavanda de Provenza, y las playas llenas de celebridades de la Riviera Francesa.",
+		"experiences":"Museo del Louvre",
+    "destinies":[
+      {
+          "name":"Rio Sena",
+          "image":"https://images.pexels.com/photos/18455466/pexels-photo-18455466/free-photo-of-ciudad-torre-eiffel-punto-de-referencia-paris.jpeg",
+          "description":"El Sena es un río francés de 774,76 kilómetros de largo, que fluye en la cuenca de París y aguas en particular Troyes, París, Rouen y Le Havre. "
+      },
+      {
+          "name":"Tour Museo de Louvre",
+          "image":"https://images.pexels.com/photos/6194357/pexels-photo-6194357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "description": "El Louvre es uno de los museos más grandes del mundo. En concreto, se ubica en el distrito 1, es decir, en pleno centro de París y recoge casi 35.000 objetos en sus 60.600 m² que abarcan desde la Prehistoria hasta el siglo XXI. Gracias a que cada año más de 8 millones de personas entran en él, se considera el museo más visitado del mundo."
+      },
+      {
+          "name":"Catedral de Notre Dame",
+          "image":"https://images.pexels.com/photos/705766/pexels-photo-705766.jpeg",
+          "description":"es una catedral de culto católico, sede de la archidiócesis de París, la capital de Francia. Dedicada a la Virgen María, madre de Jesucristo, se sitúa en la pequeña isla de la Cité, rodeada por las aguas del río Sena."
+      },
+      {
+          "name":"Torre Eiffel",
+          "image":"https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg",
+          "description": "Construida en 1889 para la Exposición Universal, la Torre Eiffel se convirtió en el principal símbolo de París y es el monumento más visitado del mundo."
+      }
+  ]
+  },
+  {
+    "name": "Republica Dominicana",
+    "image": "https://images.pexels.com/photos/2598683/pexels-photo-2598683.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1920",
+		"continent": "America",
+		"description":"Puedes bailar al ritmo contagioso del merengue, renovarte en nuestros lujosos hoteles, explorar antiguas ruinas,  deleitarte con la mejor gastronomía, o vivir aventuras en nuestros magníficos parques naturales, cordilleras, ríos y playas.",
+		"experiences":"Playa",
+    "destinies":[ 
+      {
+          "name":"playas de Bávaro",
+          "image":"https://images.pexels.com/photos/2598683/pexels-photo-2598683.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "description":"La Playa Bávaro es una de las mejores playas de República Dominicana. Si alguna vez has soñado con aguas cristalinas, arena fina y blanca y un paisaje lleno de palmeras, entonces has soñado con esta playa paradisíaca situada en Punta Cana,"
+      },
+      {
+          "name":"Punta Cana",
+          "image":"https://images.pexels.com/photos/2598675/pexels-photo-2598675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "description":"Punta Cana es considerada uno de los mayores puntos de atracción turística de la República Dominicana, ya que ofrece alrededor de 50 Km."
+      },
+      {
+          "name":"Playa arena Gorda",
+          "image":"https://images.pexels.com/photos/3703511/pexels-photo-3703511.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "description":"Se trata de una de las playas de arena blanca más largas de Punta Cana, bañada por aguas turquesa a lo largo de toda la costa."
+      },
+      {
+          "name":"Playa Blanca",
+          "image":"https://images.pexels.com/photos/14629414/pexels-photo-14629414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "description":"Playa Blanca se encuentra en una ubicación privilegiada, rodeada de una exuberante vegetación tropical."
+      }
+  ]
+  },
+  {
+    "name": "México",
+    "image": "https://images.pexels.com/photos/16134906/pexels-photo-16134906/free-photo-of-san-jose-iturbide.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1920",
+		"continent": "America",
+		"description":"Desde la playa hasta la montaña, del desierto a la selva, de la zona arqueológica a la vibrante metrópoli, de lo dulce a lo picante, de la tranquilidad a la algarabía de sus fiestas, México tiene todo lo que buscas.",
+		"experiences":"Tacos",
+    "destinies":[
+      {
+          "name": "Chichén Itzá",
+          "image": "https://images.pexels.com/photos/17182240/pexels-photo-17182240/free-photo-of-punto-de-referencia-cielo-azul-piramide-monumento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Distintos pueblos ocuparon esta ciudad, pero fue la civilización maya la que dejó la huella más importante, siendo las construcciones principales que perduran las del período que va del 800 al 1100. La más importante de todas es el Templo de Kukulcán, imagen más representativa cuando nos referimos a 'las pirámides de México', elegida como una de las 7 Maravillas del mundo moderno."
+      },
+      {
+          "name": "Uxmal",
+          "image": "https://res.cloudinary.com/worldpackers/image/upload/c_limit,f_auto,q_auto,w_1140/rlzse4rr4shpjxwy0exf",
+          "description": "La estructura que primero va a llamar tu atención seguramente sea la Pirámide del Adivino. Subir sus 30 metros de altura por los empinados escalones y apreciar la vista de todo el complejo, es una experiencia inolvidable."
+      },
+      {
+          "name": "Playas de la Riviera Maya",
+          "image": "https://images.pexels.com/photos/2631613/pexels-photo-2631613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Cancún, Playa del Carmen y Tulum son los puntos más famosos de esta costa, donde no solo vas a poder relajarte en playas de postal sino que además son excelente base para recorrer las maravillas de la zona"
+      },
+      {
+          "name": "Cenote de Ik Kil",
+          "image": "https://images.pexels.com/photos/12333464/pexels-photo-12333464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "Con un diámetro de 60 metros y una profundidad de 43 metros, Ik Kil es uno de los cenotes más conocidos en la península de Yucatán. Rodeado de selvática vegetación, largas raíces de árboles cuelgan buscando el agua dentro del cenote. "
+      }
+  ]
+  },
+  {
+    "name": "Africa Salvaje",  "image":"https://images.pexels.com/photos/6056776/pexels-photo-6056776.jpeg?auto=compress&cs=tinysrgb&w=1920",
+		"continent":"Africa",
+		"description":"Maravillas geográficas y naturales, historia del arte, animales, joyas, moda africana… reconocido por su hermosa y colorida vestimenta, que junto a su humilde historia y mágico paisajismo, forman la panorámica de viaje perfecta. África además, es la cuna de los seres humanos que aparecieron por primera vez en la tierra y el hogar de la primera gran civilización del mundo",
+		"experiences":"Safari",
+		"destinies":[{
+			"name":"Sudafrica",
+			"description":"Conocida como la Nación del Arcoíris, Sudáfrica tiene una pureza única. Su naturaleza y vida salvaje hacen que sea un destino que atrae por muchas razones a cualquier apasionado de los viajes.",
+			"image":"https://images.pexels.com/photos/631317/pexels-photo-631317.jpeg?auto=compress&cs=tinysrgb&w=600"
+			},
+		{
+		"name":"Congo",
+		"description":"El Congo es el segundo bioma de selva tropical más grande del mundo, alimentado por el segundo río más grande.",
+		"image":"https://images.pexels.com/photos/18031688/pexels-photo-18031688/free-photo-of-ciudad-carretera-gente-mujer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"name":"Sabana",
+		"description":"La sabana es un tipo de ecosistema formado por una llanura de gran extensión cubierta de pastizales y hierbas en la que hay escasos árboles dispersos. Las sabanas están ubicadas en áreas tropicales y subtropicales y se caracterizan por ser una zona de transición entre el semidesierto y la selva.",
+		"image":"https://images.pexels.com/photos/6815842/pexels-photo-6815842.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+	{
+		"name":"Egipto",
+		"description":"Egipto, oficialmente la República Árabe de Egipto, es un país soberano transcontinental, ubicado mayoritariamente en el extremo noreste de África mientras que en Asia, se encuentra en la península del Sinaí. Limita con Sudán al sur, con Libia al oeste y con el Estado de Palestina e Israel al noreste. Al norte limita con el mar Mediterráneo y al sureste con el mar Rojo. ",
+		"image":"https://images.pexels.com/photos/15127306/pexels-photo-15127306/free-photo-of-desierto-estatua-escultura-historia.jpeg?auto=compress&cs=tinysrgb&w=600"
+	}
+]
+}
+]
